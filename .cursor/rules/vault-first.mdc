@@ -1,0 +1,14 @@
+---
+description: Read Giota's local Obsidian vault before answering in this Project
+alwaysApply: true
+---
+
+# Vault first
+
+Before answering in this Project, read Giota's local Obsidian vault at `/Users/pantonak/Documents/vaults/Projects Brain` on her Mac and use it as the knowledge base.
+
+If you are not on the Mac and cannot read that path, say so. Do not invent vault contents.
+
+Never copy the vault into this repo unless Giota asks.
+
+Never commit secrets, passwords, API keys, tokens, or certificates.

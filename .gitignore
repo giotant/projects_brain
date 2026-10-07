@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Obsidian workspace and cache (vault notes stay local; do not ignore .cursor/rules)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Secrets and private keys
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+id_rsa
+id_ed25519
+credentials.json
+secrets.json
